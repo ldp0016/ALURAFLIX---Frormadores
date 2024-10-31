@@ -13,4 +13,11 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }   
-img {height: 200px;}
+img {
+    height: 200px;
+}
+.filosofia-antiga{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
