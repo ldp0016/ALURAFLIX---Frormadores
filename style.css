@@ -11,6 +11,8 @@ body {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    list-style: none;
+    padding: 0;
 }
 
 .filosofia-antiga{
@@ -29,3 +31,6 @@ img {
     overflow-x: auto;
     gap: 15px;
 }
+
+h1{font-size: 40px;}
+p{font-size: 20px;}
