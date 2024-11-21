@@ -1,15 +1,22 @@
 body {
     background-color: black;
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-section{
-    background: rgb(184, 156, 213);
+.chamada-texto{
+    background: rgb(135, 174, 221);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
+
+.filosofia-antiga{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .chamada-texto{
     margin-right: 5%;
 }   
@@ -19,5 +26,5 @@ img {
 .filosofia-antiga{
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 15px;
 }
